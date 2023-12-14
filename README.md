@@ -13,4 +13,13 @@ Este proyecto en React se centra en la gestión de tareas, permitiendo a los usu
 ## Estructura de Archivos
 
 El proyecto utiliza una estructura organizada para facilitar la escalabilidad y el mantenimiento. A continuación, se describe la estructura de archivos:
+/src
+- TaskForm.jsx
+- TaskList.jsx
+- TaskCard.jsx
+- App.jsx
+- main.jsx
+  /context
+      -TaskContex.jsx 
+
 
